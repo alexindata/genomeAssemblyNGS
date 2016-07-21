@@ -5,4 +5,4 @@ Using index-assist, the performance of the assembly algorithm was improved ~10X,
 
 Coding in Python is show in [this IPython/Jupyter notebook.][1]
 
-[1]: https://github.com/alexindata/genomeAssemblyNGS/blob/master/Genome%20assembly%20using%20index-assisted%20common%20shortest%20superstring.ipynb "this IPython/Jupyter notebook."
+[1]: https://github.com/alexindata/genomeAssemblyNGS/blob/master/indexAssistedGreedySCS.ipynb "this IPython/Jupyter notebook."
